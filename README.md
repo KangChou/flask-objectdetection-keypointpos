@@ -1,0 +1,2 @@
+# flask-objectdetection-keypointpos
+flask框架部署web视频检测与关键点检测
