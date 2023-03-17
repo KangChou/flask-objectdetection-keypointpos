@@ -1,5 +1,5 @@
 # flask-objectdetection-keypointpos
-flask框架部署web视频检测与关键点检测
+flask框架部署web视频检测与关键点检测、姿态估计
 
 算法主要调用位置：camera_opencv.py
 
